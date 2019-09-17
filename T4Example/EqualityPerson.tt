@@ -1,0 +1,2 @@
+﻿<# this.NamespaceName = "ConsoleApp1"; this.ClassName = "EqualityPerson"; this.RelativePath = "Person.cs"; #> 
+<#@ include file="EqualityClassTemplate.tt" #>
